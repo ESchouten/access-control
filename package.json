@@ -1,5 +1,5 @@
 {
-  "name": "@repo/access-control",
+  "name": "@custom/access-control",
   "type": "module",
   "version": "0.0.1",
   "private": false,
